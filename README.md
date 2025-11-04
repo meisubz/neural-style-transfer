@@ -106,7 +106,7 @@ jupyter notebook notebooks/neural_style_transfer.ipynb
 
 | Content Image                | Style Image              | Output                             |
 | ---------------------------- | ------------------------ | ---------------------------------- |
-| ![Content](data/un.jpg) | ![Style](data/vg.jpg) | ![Result](data/res.jpg) |
+| ![Content](data/un.jpg) | ![Style](data/vg.jpg) | ![Result](data/res.png) |
 
 ---
 
