@@ -19,14 +19,11 @@ neural-style-transfer/
 ├── data/
 │   ├── content.jpg
 │   ├── style.jpg
-│   └── outputs/
-│       └── result.jpg
+│   └── result.jpg
+│       
 │
 ├── models/
 │   └── vgg.py
-│
-├── notebooks/
-│   └── neural_style_transfer.ipynb
 │
 ├── utils/
 │   ├── image_loader.py
